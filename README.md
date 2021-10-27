@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently learning HTML5&CSS3 and C++.
 - 👨🏻‍💻 I'm interested in programming.
-- 📫 How to reach me: kvatev@codingburgas.bg
+- 📫 How to reach me: tdchodzhorova20@codingburgas.bg
 
 <hr>
 
