@@ -1,4 +1,4 @@
-# Hi, my name is [Toni Chodzhorova](https://github.com/tonichodzhorova/)??
+# Hi, my name is [Toni Chodzhorova](https://github.com/tonichodzhorova/)👋
 <hr>
 
 ## Talking about Personal Stuffs:
