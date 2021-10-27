@@ -1,7 +1,7 @@
 # Hi, my name is [Toni Chodzhorova](https://github.com/tonichodzhorova/)👋
 <hr>
 
-## Talking about Personal Stuffs:
+## Talking about Personal Stuff:
 
 - 🚀 I’m currently learning HTML5&CSS3 and C++.
 - 👨🏻‍💻 I'm interested in programming.
