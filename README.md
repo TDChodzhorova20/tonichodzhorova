@@ -3,9 +3,9 @@
 
 ## Talking about Personal Stuff:
 
-- 🚀 I’m currently learning HTML5&CSS3 and C++.
 - 👨🏻‍💻 I'm interested in programming.
-- 📫 How to reach me: tdchodzhorova20@codingburgas.bg
+- 🚀 I'm currently learning HTML5&CSS3 and C++.
+- 📫 How to reach me: TDChodzhorova20@codingburgas.bg
 
 <hr>
 
